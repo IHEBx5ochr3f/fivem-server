@@ -239,3 +239,5 @@ printf "
 # Note: Server Control Panel (txAdmin) is disabled by default, to enable please run 'sudo fivem_txadminenable' and use 'sudo tmux a -t FiveM_Server' to get the passcode to login with txAdmin.
 # Follow our knowledgebase article for assistance:
 "
+sudo fivem_txadminenable
+sudo tmux a -t FiveM_Server
